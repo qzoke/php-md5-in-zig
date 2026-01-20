@@ -1,0 +1,13 @@
+.{
+    .name = .qzoke_ext,
+    .version = "1.0.0",
+    .fingerprint = 0x1fa2252c25fe4ab4,
+    .minimum_zig_version = "0.14.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "md5.zig",
+        "qzoke.c",
+        "php_qzoke.h",
+    },
+}
